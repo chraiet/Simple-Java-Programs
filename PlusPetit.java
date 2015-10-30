@@ -1,13 +1,10 @@
 /*
     Une application qui lit 10 nombres entiers, les emmagasine dans un tableau
     et recherche par la suite le plus petit.
-
     Entrées:
         10 entiers      int
-
     Sorties:
         plusPetit       int
-
     Traitements:
         Effectuer la lecture des 10 entiers avec une boucle for.
         Prétendre que la valeur du premier index est le plus petit
